@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 A master student in Zhejiang University, interested in computer graphics (especially rendering).
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yif1999\&rank_icon=github)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yif1999&layout=compact&hide=html,c&theme=flag-india)](https://github.com/Yif1999)
